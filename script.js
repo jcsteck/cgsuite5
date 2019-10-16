@@ -45,15 +45,15 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "yaw": -30.57,
+        "yaw": -30.58,
         "hfov": 22.76,
         "class": "HotspotPanoramaOverlayMap",
-        "pitch": -31.78
+        "pitch": -31.77
        }
       ],
       "items": [
        {
-        "yaw": -30.57,
+        "yaw": -30.58,
         "hfov": 22.76,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
@@ -68,7 +68,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "pitch": -31.78
+        "pitch": -31.77
        }
       ]
      },
@@ -97,15 +97,15 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "yaw": -60.97,
+        "yaw": -60.98,
         "hfov": 26.66,
         "class": "HotspotPanoramaOverlayMap",
-        "pitch": -18.85
+        "pitch": -18.84
        }
       ],
       "items": [
        {
-        "yaw": -60.97,
+        "yaw": -60.98,
         "hfov": 26.66,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
@@ -120,7 +120,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "pitch": -18.85
+        "pitch": -18.84
        }
       ]
      },
@@ -149,15 +149,15 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "yaw": 112.6,
+        "yaw": 112.58,
         "hfov": 14.02,
         "class": "HotspotPanoramaOverlayMap",
-        "pitch": -28.44
+        "pitch": -28.42
        }
       ],
       "items": [
        {
-        "yaw": 112.6,
+        "yaw": 112.58,
         "hfov": 14.02,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
@@ -172,7 +172,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "pitch": -28.44
+        "pitch": -28.42
        }
       ]
      },
@@ -201,7 +201,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "yaw": 174.27,
+        "yaw": 174.26,
         "hfov": 24.13,
         "class": "HotspotPanoramaOverlayMap",
         "pitch": -21.61
@@ -209,7 +209,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
       ],
       "items": [
        {
-        "yaw": 174.27,
+        "yaw": 174.26,
         "hfov": 24.13,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
@@ -253,15 +253,15 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "yaw": 98.98,
+        "yaw": 98.96,
         "hfov": 56.85,
         "class": "HotspotPanoramaOverlayMap",
-        "pitch": -20.54
+        "pitch": -20.52
        }
       ],
       "items": [
        {
-        "yaw": 98.98,
+        "yaw": 98.96,
         "hfov": 56.85,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
@@ -276,7 +276,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "pitch": -20.54
+        "pitch": -20.52
        }
       ]
      },
@@ -468,8 +468,8 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "height": "69%",
     "borderRadius": 0,
     "paddingBottom": 10,
-    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:21px;\">The DaVinci Resolve Micro Panel from Blackmagic Design is a portable control surface that provides more control and a faster workflow to DaVinci Resolve software than working with a keyboard and mouse alone. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:21px;\">Suitable for editors and colorists that need a portable control surface. It features three high-resolution, weighted trackballs and 12 control knobs for accessing essential primary color-correction tools in the Resolve software. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:21px;\">Eighteen dedicated keys on the right side also give you access to the most commonly used grading features and playback controls.</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDAFDB02D_D535_97D4_41A6_519D71C9A929",
+    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">The DaVinci Resolve Micro Panel from Blackmagic Design is a portable control surface that provides more control and a faster workflow to DaVinci Resolve software than working with a keyboard and mouse alone. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Suitable for editors and colorists that need a portable control surface. It features three high-resolution, weighted trackballs and 12 control knobs for accessing essential primary color-correction tools in the Resolve software. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Eighteen dedicated keys on the right side also give you access to the most commonly used grading features and playback controls.</SPAN></SPAN></DIV></div>",
+    "id": "htmlText_uidC4CB1B27_D53E_E9D5_41D7_F7721326587B",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -484,7 +484,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingBottom": 0,
     "backgroundOpacity": 0,
     "horizontalAlign": "center",
-    "id": "image_uidDAFDB02D_D535_97D4_41A6_519D71C9A929_1",
+    "id": "image_uidC4CB1B27_D53E_E9D5_41D7_F7721326587B_1",
     "borderSize": 0,
     "height": "30%",
     "width": "100%",
@@ -527,7 +527,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "closeButtonRollOverBackgroundColorDirection": "vertical",
   "borderSize": 0,
-  "height": "70%",
+  "height": "80%",
   "class": "Window",
   "footerBackgroundOpacity": 1,
   "veilHideEffect": {
@@ -562,7 +562,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "footerHeight": 5,
   "contentOpaque": false,
   "closeButtonIconColor": "#000000",
-  "width": "70%",
+  "width": "80%",
   "showEffect": {
    "easing": "cubic_in_out",
    "duration": 500,
@@ -668,8 +668,8 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "height": "39%",
     "borderRadius": 0,
     "paddingBottom": 10,
-    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:21px;\">Efficient and color critical professional broadcast monitor. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:21px;\">Industry leading fast mode processing, a durable all metal chassis, and our most advanced feature set make the DM240 ideal for applications ranging from production to post.</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDAF8A032_D535_97CC_41E4_83164BC5CB40",
+    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Efficient and color critical professional broadcast monitor. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Industry leading fast mode processing, a durable all metal chassis, and our most advanced feature set make the DM240 ideal for applications ranging from production to post.</SPAN></SPAN></DIV></div>",
+    "id": "htmlText_uidC4CDCB2D_D53E_E9D5_41E0_311135E22963",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -684,7 +684,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingBottom": 0,
     "backgroundOpacity": 0,
     "horizontalAlign": "center",
-    "id": "image_uidDAF8A032_D535_97CC_41E4_83164BC5CB40_1",
+    "id": "image_uidC4CDCB2D_D53E_E9D5_41E0_311135E22963_1",
     "borderSize": 0,
     "height": "60%",
     "width": "100%",
@@ -727,7 +727,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "closeButtonRollOverBackgroundColorDirection": "vertical",
   "borderSize": 0,
-  "height": "70%",
+  "height": "80%",
   "class": "Window",
   "footerBackgroundOpacity": 1,
   "veilHideEffect": {
@@ -762,7 +762,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "footerHeight": 5,
   "contentOpaque": false,
   "closeButtonIconColor": "#000000",
-  "width": "70%",
+  "width": "80%",
   "showEffect": {
    "easing": "cubic_in_out",
    "duration": 500,
@@ -868,8 +868,8 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "height": "100%",
     "borderRadius": 0,
     "paddingBottom": 10,
-    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:21px;\">We have a variety of snacks available and a kitchen in the premises to make you and your clients feel right at home. There is also a great variety of restaurants around the post-production suites. Let us know what you have in mind and we'll point you in the right direction!</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDAF94035_D535_9834_41DB_72595BF247AB",
+    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">We have a variety of snacks available and a kitchen in the premises to make you and your clients feel right at home. There is also a great variety of restaurants around the post-production suites. Let us know what you have in mind and we'll point you in the right direction!</SPAN></SPAN></DIV></div>",
+    "id": "htmlText_uidC4CE9B31_D53E_E9CD_41D7_C77B2CA2723E",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -907,7 +907,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "closeButtonRollOverBackgroundColorDirection": "vertical",
   "borderSize": 0,
-  "height": "60%",
+  "height": "50%",
   "class": "Window",
   "footerBackgroundOpacity": 1,
   "veilHideEffect": {
@@ -942,7 +942,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "footerHeight": 5,
   "contentOpaque": false,
   "closeButtonIconColor": "#000000",
-  "width": "60%",
+  "width": "80%",
   "showEffect": {
    "easing": "cubic_in_out",
    "duration": 500,
@@ -1048,8 +1048,8 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "height": "34%",
     "borderRadius": 0,
     "paddingBottom": 10,
-    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:21px;\">The 55\u201d Flanders Scientific AM550 is an affordable large format broadcast monitor well suited to editorial and studio applications that require a simple yet accurate display with professional video connections. This unit features full 12-bit video processing and a native HD resolution panel capable of reproducing over 1.073 billion colors on screen. This monitor is equipped with 3G/HD/SD-SDI, DVI-I, Component, and Composite Inputs. As with all FSI monitors the AM550 offers support for virtually any signal format including advanced 12-bit, 4:4:4, and XYZ signal formats.</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDAF9D037_D535_9834_41D5_02CD3D93239D",
+    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">The 55\u201d Flanders Scientific AM550 is an affordable large format broadcast monitor well suited to editorial and studio applications that require a simple yet accurate display with professional video connections. This unit features full 12-bit video processing and a native HD resolution panel capable of reproducing over 1.073 billion colors on screen. This monitor is equipped with 3G/HD/SD-SDI, DVI-I, Component, and Composite Inputs. As with all FSI monitors the AM550 offers support for virtually any signal format including advanced 12-bit, 4:4:4, and XYZ signal formats.</SPAN></SPAN></DIV></div>",
+    "id": "htmlText_uidC4CE4B33_D53E_E9CD_41E8_48196B7ABD65",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -1064,7 +1064,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingBottom": 0,
     "backgroundOpacity": 0,
     "horizontalAlign": "center",
-    "id": "image_uidDAF9D037_D535_9834_41D5_02CD3D93239D_1",
+    "id": "image_uidC4CE4B33_D53E_E9CD_41E8_48196B7ABD65_1",
     "borderSize": 0,
     "height": "65%",
     "width": "100%",
@@ -1107,7 +1107,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "closeButtonRollOverBackgroundColorDirection": "vertical",
   "borderSize": 0,
-  "height": "60%",
+  "height": "80%",
   "class": "Window",
   "footerBackgroundOpacity": 1,
   "veilHideEffect": {
@@ -1142,7 +1142,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "footerHeight": 5,
   "contentOpaque": false,
   "closeButtonIconColor": "#000000",
-  "width": "60%",
+  "width": "80%",
   "showEffect": {
    "easing": "cubic_in_out",
    "duration": 500,
@@ -1248,8 +1248,8 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "height": "100%",
     "borderRadius": 0,
     "paddingBottom": 10,
-    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:21px;\">Sometimes, a break is a good idea! Our Color Suite is a comfortable environment perfect for a reviewing sessions, for your clients to relax or for you to take a break.</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDAFAA039_D535_983C_41AB_A47CA9BB195F",
+    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Sometimes, a break is a good idea! Our Color Suite is a comfortable environment perfect for a reviewing sessions, for your clients to relax or for you to take a break.</SPAN></SPAN></DIV></div>",
+    "id": "htmlText_uidC4C0BB34_D53E_E9CB_4182_B80906E38BEC",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -1322,7 +1322,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "footerHeight": 5,
   "contentOpaque": false,
   "closeButtonIconColor": "#000000",
-  "width": "50%",
+  "width": "80%",
   "showEffect": {
    "easing": "cubic_in_out",
    "duration": 500,
@@ -1663,7 +1663,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
  "horizontalAlign": "left",
  "scrollBarWidth": 10,
  "height": "100%",
- "vrPolyfillScale": 0.5,
+ "vrPolyfillScale": 0.89,
  "borderRadius": 0,
  "paddingBottom": 0,
  "id": "rootPlayer",
