@@ -46,15 +46,15 @@ TDV.PlayerAPI.defineScript({ "definitions": [
          ]
         },
         "yaw": -30.58,
-        "hfov": 22.76,
+        "hfov": 22.77,
         "class": "HotspotPanoramaOverlayMap",
-        "pitch": -31.77
+        "pitch": -31.76
        }
       ],
       "items": [
        {
         "yaw": -30.58,
-        "hfov": 22.76,
+        "hfov": 22.77,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
         "image": {
@@ -68,7 +68,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "pitch": -31.77
+        "pitch": -31.76
        }
       ]
      },
@@ -149,7 +149,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "yaw": 112.58,
+        "yaw": 112.57,
         "hfov": 14.02,
         "class": "HotspotPanoramaOverlayMap",
         "pitch": -28.42
@@ -157,7 +157,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
       ],
       "items": [
        {
-        "yaw": 112.58,
+        "yaw": 112.57,
         "hfov": 14.02,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
@@ -201,15 +201,15 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "yaw": 174.26,
+        "yaw": 174.25,
         "hfov": 24.13,
         "class": "HotspotPanoramaOverlayMap",
-        "pitch": -21.61
+        "pitch": -21.6
        }
       ],
       "items": [
        {
-        "yaw": 174.26,
+        "yaw": 174.25,
         "hfov": 24.13,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
@@ -224,7 +224,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "pitch": -21.61
+        "pitch": -21.6
        }
       ]
      },
@@ -254,15 +254,15 @@ TDV.PlayerAPI.defineScript({ "definitions": [
          ]
         },
         "yaw": 98.96,
-        "hfov": 56.85,
+        "hfov": 56.86,
         "class": "HotspotPanoramaOverlayMap",
-        "pitch": -20.52
+        "pitch": -20.5
        }
       ],
       "items": [
        {
         "yaw": 98.96,
-        "hfov": 56.85,
+        "hfov": 56.86,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
         "image": {
@@ -276,7 +276,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "pitch": -20.52
+        "pitch": -20.5
        }
       ]
      },
@@ -419,7 +419,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "paddingTop": 0,
   "shadowColor": "#000000",
   "layout": "vertical",
-  "titleFontColor": "#FFFFFF",
+  "footerBorderSize": 0,
   "closeButtonBackgroundOpacity": 0.48,
   "footerBackgroundColorDirection": "vertical",
   "minHeight": 20,
@@ -444,7 +444,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "borderRadius": 0,
     "paddingBottom": 10,
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">The DaVinci Resolve Micro Panel from Blackmagic Design is a portable control surface that provides more control and a faster workflow to DaVinci Resolve software than working with a keyboard and mouse alone. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Suitable for editors and colorists that need a portable control surface. It features three high-resolution, weighted trackballs and 12 control knobs for accessing essential primary color-correction tools in the Resolve software. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Eighteen dedicated keys on the right side also give you access to the most commonly used grading features and playback controls.</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDB90D2CD_D536_9854_41E8_DEE6AEC35E29",
+    "id": "htmlText_uidCA8EBF7F_D53D_A835_41B0_D50904B7EE1A",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -459,7 +459,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingBottom": 0,
     "backgroundOpacity": 0,
     "horizontalAlign": "center",
-    "id": "image_uidDB90D2CD_D536_9854_41E8_DEE6AEC35E29_1",
+    "id": "image_uidCA8EBF7F_D53D_A835_41B0_D50904B7EE1A_1",
     "borderSize": 0,
     "height": "30%",
     "width": "100%",
@@ -474,7 +474,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    }
   ],
   "bodyBorderSize": 0,
-  "footerBorderSize": 0,
+  "titleFontColor": "#FFFFFF",
   "backgroundOpacity": 1,
   "titleTextDecoration": "none",
   "bodyPaddingTop": 25,
@@ -484,7 +484,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "#C13535"
   ],
   "titleFontWeight": "bold",
-  "titleFontSize": 26,
+  "titleFontSize": 23,
   "closeButtonBorderRadius": 20,
   "headerVerticalAlign": "middle",
   "closeButtonRollOverIconColor": "#FFFFFF",
@@ -619,7 +619,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "paddingTop": 0,
   "shadowColor": "#000000",
   "layout": "vertical",
-  "titleFontColor": "#FFFFFF",
+  "footerBorderSize": 0,
   "closeButtonBackgroundOpacity": 0.48,
   "footerBackgroundColorDirection": "vertical",
   "minHeight": 20,
@@ -644,7 +644,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "borderRadius": 0,
     "paddingBottom": 10,
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Efficient and color critical professional broadcast monitor. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Industry leading fast mode processing, a durable all metal chassis, and our most advanced feature set make the DM240 ideal for applications ranging from production to post.</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDBAE62D2_D536_984C_41E3_62CB0F564543",
+    "id": "htmlText_uidCA8DAF84_D53D_A8CB_41D2_7698F704A592",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -659,7 +659,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingBottom": 0,
     "backgroundOpacity": 0,
     "horizontalAlign": "center",
-    "id": "image_uidDBAE62D2_D536_984C_41E3_62CB0F564543_1",
+    "id": "image_uidCA8DAF84_D53D_A8CB_41D2_7698F704A592_1",
     "borderSize": 0,
     "height": "60%",
     "width": "100%",
@@ -674,7 +674,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    }
   ],
   "bodyBorderSize": 0,
-  "footerBorderSize": 0,
+  "titleFontColor": "#FFFFFF",
   "backgroundOpacity": 1,
   "titleTextDecoration": "none",
   "bodyPaddingTop": 25,
@@ -684,7 +684,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "#C13535"
   ],
   "titleFontWeight": "bold",
-  "titleFontSize": 26,
+  "titleFontSize": 23,
   "closeButtonBorderRadius": 20,
   "headerVerticalAlign": "middle",
   "closeButtonRollOverIconColor": "#FFFFFF",
@@ -819,7 +819,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "paddingTop": 0,
   "shadowColor": "#000000",
   "layout": "vertical",
-  "titleFontColor": "#FFFFFF",
+  "footerBorderSize": 0,
   "closeButtonBackgroundOpacity": 0.48,
   "footerBackgroundColorDirection": "vertical",
   "minHeight": 20,
@@ -844,7 +844,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "borderRadius": 0,
     "paddingBottom": 10,
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">We have a variety of snacks available and a kitchen in the premises to make you and your clients feel right at home. There is also a great variety of restaurants around the post-production suites. Let us know what you have in mind and we'll point you in the right direction!</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDBAFA2D6_D536_9874_41BE_99139CCA5047",
+    "id": "htmlText_uidCA827F86_D53D_A8D7_41DC_96469601A09D",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -854,7 +854,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    }
   ],
   "bodyBorderSize": 0,
-  "footerBorderSize": 0,
+  "titleFontColor": "#FFFFFF",
   "backgroundOpacity": 1,
   "titleTextDecoration": "none",
   "bodyPaddingTop": 25,
@@ -864,7 +864,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "#C13535"
   ],
   "titleFontWeight": "bold",
-  "titleFontSize": 26,
+  "titleFontSize": 23,
   "closeButtonBorderRadius": 20,
   "headerVerticalAlign": "middle",
   "closeButtonRollOverIconColor": "#FFFFFF",
@@ -999,7 +999,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "paddingTop": 0,
   "shadowColor": "#000000",
   "layout": "vertical",
-  "titleFontColor": "#FFFFFF",
+  "footerBorderSize": 0,
   "closeButtonBackgroundOpacity": 0.48,
   "footerBackgroundColorDirection": "vertical",
   "minHeight": 20,
@@ -1024,7 +1024,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "borderRadius": 0,
     "paddingBottom": 10,
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">The 55\u201d Flanders Scientific AM550 is an affordable large format broadcast monitor well suited to editorial and studio applications that require a simple yet accurate display with professional video connections. This unit features full 12-bit video processing and a native HD resolution panel capable of reproducing over 1.073 billion colors on screen. This monitor is equipped with 3G/HD/SD-SDI, DVI-I, Component, and Composite Inputs. As with all FSI monitors the AM550 offers support for virtually any signal format including advanced 12-bit, 4:4:4, and XYZ signal formats.</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDBAF92D7_D536_9874_41CC_1E6A44EB6BF6",
+    "id": "htmlText_uidCA82EF87_D53D_A8D5_41CE_66118F628536",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -1039,7 +1039,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingBottom": 0,
     "backgroundOpacity": 0,
     "horizontalAlign": "center",
-    "id": "image_uidDBAF92D7_D536_9874_41CC_1E6A44EB6BF6_1",
+    "id": "image_uidCA82EF87_D53D_A8D5_41CE_66118F628536_1",
     "borderSize": 0,
     "height": "65%",
     "width": "100%",
@@ -1054,7 +1054,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    }
   ],
   "bodyBorderSize": 0,
-  "footerBorderSize": 0,
+  "titleFontColor": "#FFFFFF",
   "backgroundOpacity": 1,
   "titleTextDecoration": "none",
   "bodyPaddingTop": 25,
@@ -1064,7 +1064,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "#C13535"
   ],
   "titleFontWeight": "bold",
-  "titleFontSize": 26,
+  "titleFontSize": 23,
   "closeButtonBorderRadius": 20,
   "headerVerticalAlign": "middle",
   "closeButtonRollOverIconColor": "#FFFFFF",
@@ -1199,7 +1199,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "paddingTop": 0,
   "shadowColor": "#000000",
   "layout": "vertical",
-  "titleFontColor": "#FFFFFF",
+  "footerBorderSize": 0,
   "closeButtonBackgroundOpacity": 0.48,
   "footerBackgroundColorDirection": "vertical",
   "minHeight": 20,
@@ -1224,7 +1224,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "borderRadius": 0,
     "paddingBottom": 10,
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Sometimes, a break is a good idea! Our Color Suite is a comfortable environment perfect for a reviewing sessions, for your clients to relax or for you to take a break.</SPAN></SPAN></DIV></div>",
-    "id": "htmlText_uidDBAF22DA_D536_987C_41E9_8E073ACAC355",
+    "id": "htmlText_uidCA83AF88_D53D_A8DB_41E7_A69A9F7795DC",
     "paddingTop": 10,
     "scrollBarOpacity": 0.5,
     "scrollBarVisible": "rollOver",
@@ -1234,7 +1234,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    }
   ],
   "bodyBorderSize": 0,
-  "footerBorderSize": 0,
+  "titleFontColor": "#FFFFFF",
   "backgroundOpacity": 1,
   "titleTextDecoration": "none",
   "bodyPaddingTop": 25,
@@ -1244,7 +1244,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "#C13535"
   ],
   "titleFontWeight": "bold",
-  "titleFontSize": 26,
+  "titleFontSize": 23,
   "closeButtonBorderRadius": 20,
   "headerVerticalAlign": "middle",
   "closeButtonRollOverIconColor": "#FFFFFF",
@@ -1611,7 +1611,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "autotriggerAtStart": function(player, callback){  var stateChangeFunction = function(event){ if(event.data.state == 'playing'){ callback(); player.unbind('stateChange', stateChangeFunction, this); } }; player.bind('stateChange', stateChangeFunction, this); },
   "shareTwitter": function(url){  window.open('https://twitter.com/intent/tweet?source=webclient&url=' + url, '_blank'); },
   "shareFacebook": function(url){  window.open('https://www.facebook.com/sharer/sharer.php?u=' + url, '_blank'); },
-  "resumeGlobalAudios": function(caller){  if(window.currentGlobalAudiosActionCaller && window.currentGlobalAudiosActionCaller != caller) return; window.currentGlobalAudiosActionCaller = undefined; var audios = window.currentGlobalAudios; if(!audios) return; for(var audio in audios){ audios[audio].play(); } },
+  "playGlobalAudio": function(audio, endCallback){  var endFunction = function(){ audio.unbind('end', endFunction, this); this.stopGlobalAudio(audio); if(endCallback) endCallback(); }; audio = this.getGlobalAudio(audio); var audios = window.currentGlobalAudios; if(!audios){ audios = window.currentGlobalAudios = {}; } audios[audio.get('id')] = audio; if(audio.get('state') == 'playing'){ return; } if(!audio.get('loop')){ audio.bind('end', endFunction, this); } audio.play(); },
   "pauseCurrentPlayers": function(onlyPauseCameraIfPanorama){  var players = this.getCurrentPlayers(); var i = players.length; while(i-- > 0){ var player = players[i]; if(player.get('state') == 'playing') { if(onlyPauseCameraIfPanorama && player.get('class') == 'PanoramaPlayer' && typeof player.get('video') === 'undefined'){ player.pauseCamera(); } else if(player.get('state') == 'playing') { player.pause(); } } else { players.splice(i, 1); } } return players; },
   "existsKey": function(key){  return key in window; },
   "setEndToItemIndex": function(playList, fromIndex, toIndex){  var endFunction = function(){ if(playList.get('selectedIndex') == fromIndex) playList.set('selectedIndex', toIndex); }; this.executeFunctionWhenChange(playList, fromIndex, endFunction); },
@@ -1638,17 +1638,17 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "setMapLocation": function(panoramaPlayListItem, mapPlayer){  var resetFunction = function(){ panoramaPlayListItem.unbind('stop', resetFunction, this); player.set('mapPlayer', null); }; panoramaPlayListItem.bind('stop', resetFunction, this); var player = panoramaPlayListItem.get('player'); player.set('mapPlayer', mapPlayer); },
   "syncPlaylists": function(playLists){  var changeToMedia = function(media, playListDispatched){ for(var i = 0, count = playLists.length; i<count; ++i){ var playList = playLists[i]; if(playList != playListDispatched){ var items = playList.get('items'); for(var j = 0, countJ = items.length; j<countJ; ++j){ if(items[j].get('media') == media){ if(playList.get('selectedIndex') != j){ playList.set('selectedIndex', j); } break; } } } } }; var changeFunction = function(event){ var playListDispatched = event.source; var selectedIndex = playListDispatched.get('selectedIndex'); if(selectedIndex < 0) return; var media = playListDispatched.get('items')[selectedIndex].get('media'); changeToMedia(media, playListDispatched); }; var mapPlayerChangeFunction = function(event){ var panoramaMapLocation = event.source.get('panoramaMapLocation'); if(panoramaMapLocation){ var map = panoramaMapLocation.get('map'); changeToMedia(map); } }; for(var i = 0, count = playLists.length; i<count; ++i){ playLists[i].bind('change', changeFunction, this); } var mapPlayers = this.getByClassName('MapPlayer'); for(var i = 0, count = mapPlayers.length; i<count; ++i){ mapPlayers[i].bind('panoramaMapLocation_change', mapPlayerChangeFunction, this); } },
   "showWindow": function(w, autoCloseMilliSeconds, containsAudio){  if(w.get('visible') == true){ return; } var closeFunction = function(){ clearAutoClose(); this.resumePlayers(playersPaused, !containsAudio); w.unbind('close', closeFunction, this); }; var clearAutoClose = function(){ w.unbind('click', clearAutoClose, this); if(timeoutID != undefined){ clearTimeout(timeoutID); } }; var timeoutID = undefined; if(autoCloseMilliSeconds){ var autoCloseFunction = function(){ w.hide(); }; w.bind('click', clearAutoClose, this); timeoutID = setTimeout(autoCloseFunction, autoCloseMilliSeconds); } var playersPaused = this.pauseCurrentPlayers(!containsAudio); w.bind('close', closeFunction, this); w.show(this, true); },
-  "getPlayListItems": function(media, player){  var itemClass = (function() { switch(media.get('class')) { case 'Panorama': case 'LivePanorama': case 'HDRPanorama': return 'PanoramaPlayListItem'; case 'Video360': return 'Video360PlayListItem'; case 'PhotoAlbum': return 'PhotoAlbumPlayListItem'; case 'Map': return 'MapPlayListItem'; case 'Video': return 'VideoPlayListItem'; } })(); if (itemClass != undefined) { var items = this.getByClassName(itemClass); for (var i = items.length-1; i>=0; --i) { var item = items[i]; if(item.get('media') != media || (player != undefined && item.get('player') != player)) { items.splice(i, 1); } } return items; } else { return []; } },
+  "isCardboardViewMode": function(){  var players = this.getByClassName('PanoramaPlayer'); return players.length > 0 && players[0].get('viewMode') == 'cardboard'; },
   "getActivePlayerWithViewer": function(viewerArea){  var players = this.getByClassName('PanoramaPlayer'); players = players.concat(this.getByClassName('VideoPlayer')); players = players.concat(this.getByClassName('Video360Player')); players = players.concat(this.getByClassName('PhotoAlbumPlayer')); players = players.concat(this.getByClassName('MapPlayer')); var i = players.length; while(i-- > 0){ var player = players[i]; if(player.get('viewerArea') == viewerArea) { var playerClass = player.get('class'); if(playerClass == 'PanoramaPlayer' && (player.get('panorama') != undefined || player.get('video') != undefined)) return player; else if((playerClass == 'VideoPlayer' || playerClass == 'Video360Player') && player.get('video') != undefined) return player; else if(playerClass == 'PhotoAlbumPlayer' && player.get('photoAlbum') != undefined) return player; else if(playerClass == 'MapPlayer' && player.get('map') != undefined) return player; } } return undefined; },
   "getCurrentPlayers": function(){  var players = this.getByClassName('PanoramaPlayer'); players = players.concat(this.getByClassName('VideoPlayer')); players = players.concat(this.getByClassName('Video360Player')); players = players.concat(this.getByClassName('PhotoAlbumPlayer')); return players; },
   "visibleComponentsIfPlayerFlagEnabled": function(components, playerFlag){  var enabled = this.get(playerFlag); for(var i in components){ components[i].set('visible', enabled); } },
   "changeBackgroundWhilePlay": function(playList, index, color){  var changeFunction = function(event){ if(event.data.previousSelectedIndex == index){ playList.unbind('change', changeFunction, this); if((color == viewerArea.get('backgroundColor')) && (colorRatios == viewerArea.get('backgroundColorRatios'))){ viewerArea.set('backgroundColor', backgroundColorBackup); viewerArea.set('backgroundColorRatios', backgroundColorRatiosBackup); } } }; var playListItem = playList.get('items')[index]; var player = playListItem.get('player'); var viewerArea = player.get('viewerArea'); var backgroundColorBackup = viewerArea.get('backgroundColor'); var backgroundColorRatiosBackup = viewerArea.get('backgroundColorRatios'); var colorRatios = [0]; if((color != backgroundColorBackup) || (colorRatios != backgroundColorRatiosBackup)){ viewerArea.set('backgroundColor', color); viewerArea.set('backgroundColorRatios', colorRatios); playList.bind('change', changeFunction, this); } },
   "updateVideoCues": function(playList, index){  var playListItem = playList.get('items')[index]; var video = playListItem.get('media'); if(video.get('cues').length == 0) return; var player = playListItem.get('player'); var cues = []; var changeFunction = function(){ if(playList.get('selectedIndex') != index){ video.unbind('cueChange', cueChangeFunction, this); playList.unbind('change', changeFunction, this); } }; var cueChangeFunction = function(event){ var activeCues = event.data.activeCues; for(var i = 0, count = cues.length; i<count; ++i){ var cue = cues[i]; if(activeCues.indexOf(cue) == -1 && (cue.get('startTime') > player.get('currentTime') || cue.get('endTime') < player.get('currentTime')+0.5)){ cue.trigger('end'); } } cues = activeCues; }; video.bind('cueChange', cueChangeFunction, this); playList.bind('change', changeFunction, this); },
   "unregisterKey": function(key){  delete window[key]; },
-  "isCardboardViewMode": function(){  var players = this.getByClassName('PanoramaPlayer'); return players.length > 0 && players[0].get('viewMode') == 'cardboard'; },
+  "getPlayListItems": function(media, player){  var itemClass = (function() { switch(media.get('class')) { case 'Panorama': case 'LivePanorama': case 'HDRPanorama': return 'PanoramaPlayListItem'; case 'Video360': return 'Video360PlayListItem'; case 'PhotoAlbum': return 'PhotoAlbumPlayListItem'; case 'Map': return 'MapPlayListItem'; case 'Video': return 'VideoPlayListItem'; } })(); if (itemClass != undefined) { var items = this.getByClassName(itemClass); for (var i = items.length-1; i>=0; --i) { var item = items[i]; if(item.get('media') != media || (player != undefined && item.get('player') != player)) { items.splice(i, 1); } } return items; } else { return []; } },
   "playAudioList": function(audios){  if(audios.length == 0) return; var currentAudioCount = -1; var currentAudio; var playGlobalAudioFunction = this.playGlobalAudio; var playNext = function(){ if(++currentAudioCount >= audios.length) currentAudioCount = 0; currentAudio = audios[currentAudioCount]; playGlobalAudioFunction(currentAudio, playNext); }; playNext(); },
   "getGlobalAudio": function(audio){  var audios = window.currentGlobalAudios; if(audios != undefined && audio.get('id') in audios){ audio = audios[audio.get('id')]; } return audio; },
-  "playGlobalAudio": function(audio, endCallback){  var endFunction = function(){ audio.unbind('end', endFunction, this); this.stopGlobalAudio(audio); if(endCallback) endCallback(); }; audio = this.getGlobalAudio(audio); var audios = window.currentGlobalAudios; if(!audios){ audios = window.currentGlobalAudios = {}; } audios[audio.get('id')] = audio; if(audio.get('state') == 'playing'){ return; } if(!audio.get('loop')){ audio.bind('end', endFunction, this); } audio.play(); },
+  "resumeGlobalAudios": function(caller){  if(window.currentGlobalAudiosActionCaller && window.currentGlobalAudiosActionCaller != caller) return; window.currentGlobalAudiosActionCaller = undefined; var audios = window.currentGlobalAudios; if(!audios) return; for(var audio in audios){ audios[audio].play(); } },
   "fixTogglePlayPauseButton": function(player){  var state = player.get('state'); var button = player.get('buttonPlayPause'); if(typeof button !== 'undefined' && player.get('state') == 'playing'){ button.set('pressed', true); } },
   "registerKey": function(key, value){  window[key] = value; },
   "stopGlobalAudio": function(audio){  var audios = window.currentGlobalAudios; if(audios){ audio = audios[audio.get('id')]; if(audio){ delete audios[audio.get('id')]; if(Object.keys(audios).length == 0){ window.currentGlobalAudios = undefined; } } } if(audio) audio.stop(); },
