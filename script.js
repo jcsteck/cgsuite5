@@ -139,16 +139,16 @@ TDV.PlayerAPI.defineScript({ "definitions": [
          ]
         },
         "class": "HotspotPanoramaOverlayMap",
-        "yaw": 112.57,
-        "hfov": 14.02,
-        "pitch": -28.42
+        "yaw": 112.51,
+        "hfov": 14.03,
+        "pitch": -28.35
        }
       ],
       "rollOverDisplay": true,
       "class": "HotspotPanoramaOverlay",
       "items": [
        {
-        "yaw": 112.57,
+        "yaw": 112.51,
         "class": "HotspotPanoramaOverlayImage",
         "roll": 0,
         "image": {
@@ -162,8 +162,8 @@ TDV.PlayerAPI.defineScript({ "definitions": [
           }
          ]
         },
-        "hfov": 14.02,
-        "pitch": -28.42
+        "hfov": 14.03,
+        "pitch": -28.35
        }
       ]
      },
@@ -479,7 +479,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "scrollBarWidth": 10,
     "paddingBottom": 10,
     "paddingTop": 10,
-    "id": "htmlText_uidDB496E2A_D62D_4B8A_41DF_72EE2C3A8D38",
+    "id": "htmlText_uidD8CCB20F_D624_BB8A_41E1_AE772338292A",
     "scrollBarColor": "#000000",
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">The DaVinci Resolve Micro Panel from Blackmagic Design is a portable control surface that provides more control and a faster workflow to DaVinci Resolve software than working with a keyboard and mouse alone. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Suitable for editors and colorists that need a portable control surface. It features three high-resolution, weighted trackballs and 12 control knobs for accessing essential primary color-correction tools in the Resolve software. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Eighteen dedicated keys on the right side also give you access to the most commonly used grading features and playback controls.</SPAN></SPAN></DIV></div>",
     "scrollBarVisible": "rollOver",
@@ -498,7 +498,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingLeft": 0,
     "height": "30%",
     "paddingTop": 0,
-    "id": "image_uidDB496E2A_D62D_4B8A_41DF_72EE2C3A8D38_1",
+    "id": "image_uidD8CCB20F_D624_BB8A_41E1_AE772338292A_1",
     "borderRadius": 0,
     "borderSize": 0,
     "url": "media/photo_DD3BE5FB_D0A6_4788_41E7_BBDF08A078BA.png",
@@ -679,7 +679,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "scrollBarWidth": 10,
     "paddingBottom": 10,
     "paddingTop": 10,
-    "id": "htmlText_uidDB4FCE30_D62D_4B96_41CB_E5B2E4714B04",
+    "id": "htmlText_uidD8CA4218_D624_BB96_41E6_03A91BA75BD5",
     "scrollBarColor": "#000000",
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Efficient and color critical professional broadcast monitor. </SPAN></SPAN></DIV><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Industry leading fast mode processing, a durable all metal chassis, and our most advanced feature set make the DM240 ideal for applications ranging from production to post.</SPAN></SPAN></DIV></div>",
     "scrollBarVisible": "rollOver",
@@ -698,7 +698,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingLeft": 0,
     "height": "60%",
     "paddingTop": 0,
-    "id": "image_uidDB4FCE30_D62D_4B96_41CB_E5B2E4714B04_1",
+    "id": "image_uidD8CA4218_D624_BB96_41E6_03A91BA75BD5_1",
     "borderRadius": 0,
     "borderSize": 0,
     "url": "media/photo_DECD1EC2_D0AA_45F9_41CB_1CEDF9FCFE40.png",
@@ -879,9 +879,9 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "scrollBarWidth": 10,
     "paddingBottom": 10,
     "paddingTop": 10,
-    "id": "htmlText_uidDB4F9E33_D62D_4B9A_41E0_A151B2F7E4FA",
+    "id": "htmlText_uidD8CB4221_D624_BBB6_41E2_DCA3CB2B3890",
     "scrollBarColor": "#000000",
-    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">We have a variety of snacks available and a kitchen in the premises to make you and your clients feel right at home. There is also a great variety of restaurants around the post-production suites. Let us know what you have in mind and we'll point you in the right direction!</SPAN></SPAN></DIV></div>",
+    "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">We have a variety of snacks available and a kitchen to make you and your clients feel right at home. There is also a great variety of restaurants around the post-production suites. Let us know what you have in mind and we'll point you in the right direction!</SPAN></SPAN></DIV></div>",
     "scrollBarVisible": "rollOver",
     "borderRadius": 0,
     "scrollBarOpacity": 0.5,
@@ -1059,7 +1059,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "scrollBarWidth": 10,
     "paddingBottom": 10,
     "paddingTop": 10,
-    "id": "htmlText_uidDB4C4E34_D62D_4B9E_41DE_A92DB00591B5",
+    "id": "htmlText_uidD8CBE222_D624_BBBA_41BD_E8012C360B54",
     "scrollBarColor": "#000000",
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">The 55\u201d Flanders Scientific AM550 is an affordable large format broadcast monitor well suited to editorial and studio applications that require a simple yet accurate display with professional video connections. This unit features full 12-bit video processing and a native HD resolution panel capable of reproducing over 1.073 billion colors on screen. This monitor is equipped with 3G/HD/SD-SDI, DVI-I, Component, and Composite Inputs. As with all FSI monitors the AM550 offers support for virtually any signal format including advanced 12-bit, 4:4:4, and XYZ signal formats.</SPAN></SPAN></DIV></div>",
     "scrollBarVisible": "rollOver",
@@ -1078,7 +1078,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingLeft": 0,
     "height": "65%",
     "paddingTop": 0,
-    "id": "image_uidDB4C4E34_D62D_4B9E_41DE_A92DB00591B5_1",
+    "id": "image_uidD8CBE222_D624_BBBA_41BD_E8012C360B54_1",
     "borderRadius": 0,
     "borderSize": 0,
     "url": "media/photo_DFF80FE0_D0EE_43B8_41DF_4D0F0E1B1C1D.png",
@@ -1259,7 +1259,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "scrollBarWidth": 10,
     "paddingBottom": 10,
     "paddingTop": 10,
-    "id": "htmlText_uidDB4CCE35_D62D_4B9E_41C7_E8A8AA04F29A",
+    "id": "htmlText_uidD8C8D224_D624_BBBE_41D0_A999F55B058F",
     "scrollBarColor": "#000000",
     "html": "<div style=\"text-align:left; color:#000; \"><DIV STYLE=\"text-align:justify;\"><SPAN STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"><SPAN STYLE=\"color:#cccccc;font-size:22px;\">Sometimes, a break is a good idea! Our Color Suite is a comfortable environment perfect for a review sessions, for your clients to relax or for you to take a break.</SPAN></SPAN></DIV></div>",
     "scrollBarVisible": "rollOver",
